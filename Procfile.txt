@@ -1,0 +1,1 @@
+web: gunicorn ApiGeolocation.wsgi --log-file -
